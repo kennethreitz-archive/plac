@@ -1,0 +1,406 @@
+Traceback (most recent call last):
+  File "importer3.py", line 20, in <module>
+    plac.Interpreter(plac.call(FakeImporter)).interact()
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 775, in interact
+    self._manage_input()
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 785, in _manage_input
+    write(str(task) + '\n')
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+  File "/usr/local/lib/python2.6/dist-packages/plac-0.7.0-py2.6.egg/plac_ext.py", line 266, in __str__
+    return '\n'.join(map(str, self.outlist))
+RuntimeError: maximum recursion depth exceeded while calling a Python object

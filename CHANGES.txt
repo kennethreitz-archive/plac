@@ -1,0 +1,31 @@
+HISTORY
+----------
+
+0.7.4 Fixed the plac_runner switches -i and -s; fixed a bug with multiline output
+      and issue with nosetest (2010-09-04)
+0.7.3 Put the documentation in a single document; added runp (2010-08-31)
+0.7.2 Interpreter.call does not start an interpreter automagically anymore;
+      better documented and added tests for the metavar concept (2010-08-31)
+0.7.1 A few bug fixes (2010-08-11)
+0.7.0 Improved and documented the support for parallel programming;
+      added an asynchronous server; added plac.Interpreter.call (2010-08-07)
+0.6.1 Fixed the history file location; added the ability to pass a split
+      function; added two forgotten files; added a reference to cmd2 by 
+      Catherine Devlin (2010-07-12)
+0.6.0 Improved the interactive experience with full readline support and
+      custom help. Added support for long running command, via threads and
+      processes (2010-07-11)
+0.5.0 Gigantic release. Introduced smart options, added an Interpreter class
+      and the command container concept. Made the split plac/plac_core/plac_ext
+      and added a plac runner, able to run scripts, batch files and doctests.
+      Removed the default formatter class (2010-06-20)
+0.4.3 Fixed the installation procedure to automatically download argparse
+      if needed (2010-06-11)
+0.4.2 Added missing .help files, made the tests generative and added a
+      note about Clap in the documentation (2010-06-04)
+0.4.1 Changed the default formatter class and fixed a bug in the
+      display of the default arguments. Added more stringent tests. (2010-06-03)
+0.4.0 abbrev is now optional. Added a note about CLIArgs and opterate.
+      Added keyword arguments recognition. ``plac.call`` now returns the
+      the output of the main function. (2010-06-03)
+0.3.0 Initial version. (2010-06-02)
